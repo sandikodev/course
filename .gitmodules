@@ -1,3 +1,6 @@
 [submodule "aureliajs"]
 	path = aureliajs
 	url = git@github-sandikodev:sandikodev/course-aureliajs.git
+[submodule "evolusi-web"]
+	path = evolusi-web
+	url = git@github-sandikodev:sandikodev/course-evolusi-web.git
