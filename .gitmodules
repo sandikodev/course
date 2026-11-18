@@ -1,0 +1,3 @@
+[submodule "aureliajs"]
+	path = aureliajs
+	url = git@github-sandikodev:sandikodev/course-aureliajs.git
