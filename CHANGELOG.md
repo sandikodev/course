@@ -4,6 +4,21 @@ Semua perubahan penting pada konten kedua course dicatat di sini.
 
 ---
 
+## 2026-11-19 — Perluas dan Sempurnakan Konten
+
+### Aureliajs
+- **Perluas** Bab 01: tambah section "Mengapa Course Ini Berbeda" — ekspektasi jelas, positioning jujur
+- **Perluas** Bab 11: tambah section "Apa Selanjutnya" — 5 langkah setelah portfolio siap + link ke Evolusi Web
+- **Tambah** referensi silang ke course Evolusi Web dari Bab 11
+
+### Evolusi Web
+- **Perluas** Bab 02: tambah nasib historis Backbone, AngularJS (EOL 2021), Ember
+- **Perluas** Bab 04: tambah 4 pelajaran dari fragmentasi ekosistem
+- **Perluas** Bab 10: tambah VDOM di era React Server Components
+- **Perluas** Bab 13: tambah perbandingan Qwik Resumability vs React Server Components
+
+---
+
 ## [Unreleased] — Pekerjaan yang Sedang Berlangsung
 
 ### Aureliajs
